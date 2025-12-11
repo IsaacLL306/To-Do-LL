@@ -1,5 +1,10 @@
-![Alt Text](src/Logo_LL.png) X IsaacLL
-============
+<p align="center">
+  <img src="src/Logo_LL.png" alt="Logo LL" width="150"/>
+</p>
+<h1 align="center">Python To Do LL</h1>
+<p align="center">X IsaacLL</p>
+
+
 
 ***
 # Python To Do LL
@@ -62,3 +67,4 @@ Url descargable - luego
 
 
 Url github - https://github.com/IsaacLL306/To-Do-LL
+
